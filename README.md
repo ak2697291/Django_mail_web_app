@@ -1,0 +1,1 @@
+# Django_mail_web_app
